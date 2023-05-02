@@ -10,6 +10,8 @@ To get started with this project, follow these steps:
 2. If you don't already have npm you can install it by using the following command ``sudo apt install npm``
 3. Install dependencies using `npm install`
 4. Start the development server using `npm start`
+5. To create a React app use `npm create-react-app`
+6. After creating the React App you got to run the React app, use `npm start`
 
 ## Basic Components
 
